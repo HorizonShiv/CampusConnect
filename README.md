@@ -1,13 +1,8 @@
-# Department_portal
-
-Here's a drive link for project code
-https://drive.google.com/drive/folders/1i8WrPUiiQc-I_0VM57wvVXMGriii3GGz?usp=share_link
-
-# Department Portal
+# Student Portal
 
 ## Introduction
 
-A department portal is a centralized online platform designed to serve the specific needs of a particular department within an organization or institution. It acts as a digital gateway that provides department-specific information, resources, and tools, fostering efficient communication and collaboration among department members. The portal serves as a hub for both internal and external stakeholders, offering a range of features tailored to meet the unique requirements of the department it represents.
+A Student portal is a centralized online platform designed to serve the specific needs of a particular department within an organization or institution. It acts as a digital gateway that provides department-specific information, resources, and tools, fostering efficient communication and collaboration among department members. The portal serves as a hub for both internal and external stakeholders, offering a range of features tailored to meet the unique requirements of the department it represents.
 
 ## Prerequisites
 
